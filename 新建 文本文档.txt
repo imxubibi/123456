@@ -1,0 +1,19 @@
+cvv/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob/Adobe Photoshop 2022/Required/UXP/com.adobe.unifiedpanel/locale/zh-Hans/strings.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Adobe/Adob
